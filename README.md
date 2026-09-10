@@ -18,7 +18,7 @@ This repository contains 2 Excel files for download. If you have any questions o
    
 This file contains the data for each state (excluding Connecticut and Washington D.C.) for the fictional funding amounts described in the policy brief. Each state has a sheet containing tables providing the median, mean, and range for each funding formula by metropolitan, non-metropolitan, and Rural-Urban Continuum Code. 
 
-3. Funding Formula Modeling Workbook
+2. Funding Formula Modeling Workbook
    
 This workbook contains the formulas and structure to enter your own data and model each of the funding formulas. Instructions are provided on the first sheet, users will enter their data on the second sheet, and overall and per capita formulas will automatically be calculated on sheets 3 and 4.
 
